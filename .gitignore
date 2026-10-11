@@ -1,0 +1,17 @@
+# Binaries and executables
+*.exe
+*.out
+*.o
+*.obj
+
+# Debug files
+*.pdb
+*.ilk
+*.dSYM/
+
+# VS Code directory
+.vscode/
+
+# Temporary files
+*.tmp
+*.log
